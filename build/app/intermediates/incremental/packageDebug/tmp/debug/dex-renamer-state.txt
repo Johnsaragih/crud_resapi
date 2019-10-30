@@ -1,0 +1,4 @@
+#Wed Oct 30 15:36:33 WIB 2019
+base.0=/home/johntor/development/crudapi1/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
